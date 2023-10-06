@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.video-container {
+    border: 2px solid #333;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.buton {
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+.background {
+
+    background-color: #fefae0;
+}
+
+/* Add this CSS to your existing stylesheet or in a <style> tag in the HTML file */
+
+.video-button-container {
+    display: flex;
+    justify-content: space-between; /* Align items on each end of the container */
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column; /* Arrange buttons vertically */
+}
+
+/* Adjust styles for buttons as needed */
+.btn {
+    margin: 5px; /* Add margin between buttons for spacing */
+}
+
